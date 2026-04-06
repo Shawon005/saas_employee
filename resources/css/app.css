@@ -1,0 +1,11 @@
+:root {
+    --color-brand: #1a2340;
+    --color-accent: #00c896;
+    --color-danger: #ef4444;
+    --color-warning: #f59e0b;
+    --color-background: #f8fafc;
+}
+
+body {
+    background: var(--color-background);
+}
